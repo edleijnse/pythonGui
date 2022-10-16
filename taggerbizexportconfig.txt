@@ -1,0 +1,8 @@
+d:/TAGGER.biz.package/JgpExport
+C:/PythonTestData/Lightroom
+d:/TAGGER.biz.package/LightroomExtract
+d:/TAGGER.biz.package/LightroomDuplicates
+d:/TAGGER.biz.package/export
+d:/TAGGER.biz.package/import
+ed@leijnse.info
+d:
